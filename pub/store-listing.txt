@@ -1,0 +1,47 @@
+Title: Milton Transit Bus - MonTrans…
+----------
+Short description:
+Milton Transit Bus for MonTransit.
+Schedule. News.
+----------
+What's new in this version?:
+Schedule from April 29, 2015 to December 31, 2016.
+Tweets from @miltontransit.
+----------
+Full description:
+This app adds Milton Transit buses information to MonTransit.
+
+This app provides the buses schedule and news from @miltontransit on Twitter.
+
+Milton Transit buses serve Milton in Ontario, Canada.
+
+Once this application is installed, the MonTransit app will display buses information (schedule...).
+
+This application only has a temporary icon and no screen: download the MonTransit app (free) in the "More ..." section bellow or by following this Google Play link http://goo.gl/pCk5mV
+
+You can install this application on the SD card but it is not recommended.
+
+The information comes from the GTFS file provided by the Town of Milton.
+http://icreateopendata.public.esolutionsgroup.ca/home/details/9765286c-48b4-417c-8c23-3a64334e6c04
+
+This application is free and open-source:
+https://github.com/mtransitapps/ca-milton-transit-bus-android
+
+This app is not related with Milton Transit and the Town of Milton.
+
+Permissions:
+- Other: required to read news from Twitter
+----------
+Application type: Applications
+----------
+Category: Transportation
+----------
+Content rating: Low Maturity
+----------
+Website: https://github.com/mtransitapps/ca-milton-transit-bus-android
+----------
+Email: mtransit.apps+GooglePlay@gmail.com
+----------
+Phone:
+----------
+Privacy Policy:
