@@ -75,13 +75,6 @@
 2077,'','Steeles Av E Opposite Esquesing Li',43.54052898,-79.87406237
 2078,'','Milton Crossroads / Montana''s',43.54165982,-79.86914973
 2079,'','Milton Go Sta - 6 Platform',43.52377035,-79.86675051
-2080,'','Main St E / James St',43.51140715,-79.88519696
-2082,'','Main St W Opposite Whitmer St',43.50600813,-79.89097883
-2083,'','Scott Bv / Main St W',43.50358758,-79.8925655
-2084,'','Scott Bv / Huntingford Gt',43.50275591,-79.89065106
-2085,'','Scott Bv / Forbes Terr',43.501911,-79.8881603
-2086,'','Scott Bv Opposite Portch Gt',43.50096783,-79.88668261
-2087,'','Scott Bv / Pringle Av',43.50001869,-79.88451439
 2088,'','Scott Bv / Wigglesworth Cr',43.49852919,-79.88281971
 2089,'','Scott Bv / Baylis Ct',43.49687911,-79.88214849
 2090,'','Scott Bv / Landsborough Av',43.49475702,-79.88123273
@@ -95,27 +88,11 @@
 2100,'','Savoline Bv / Pringle Av',43.49474424,-79.88955495
 2102,'','Pringle Av Opposite Jelinik Terr',43.49755591,-79.88704106
 2103,'','Pringle Av / Wigglesworth Cr',43.49859369,-79.88612884
-2104,'','Scott Bv / Pringle Av',43.50017035,-79.8843705
-2105,'','Scott Bv / Portch Gt',43.50099683,-79.88634863
-2106,'','Scott Bv / Forbes Terr',43.50197258,-79.88788939
-2107,'','Scott Bv / Kendall Dr',43.50296258,-79.89087495
-2108,'','Scot Bv / Main St W',43.50357146,-79.89213717
-2109,'','Main St W / Whitmer St',43.5060309,-79.89077797
-2110,'','Main St E / Fulton St',43.51503166,-79.88101923
-2111,'','Milgate Pl 80 Ontario St',43.51896368,-79.88103717
-2112,'','Main St E Opposite Prince St',43.51666132,-79.87945629
-2113,'','Marion Courtyard 137 Martin St',43.51667979,-79.88522661
-2114,'','40 Ontario St S / Bruce Apartments',43.51677535,-79.87618662
-2115,'','Milton Ctr For The Arts / Main Library 1010 Main St E',43.52849535,-79.8655594
-2116,'','Nipissing Rd / Childs Dr',43.51902813,-79.87343995
-2117,'','Milton Seniors'' Activity Ctr 500 Childs Dr',43.51666479,-79.87157217
-2118,'','Martin House Seniors'' Residence 189 Ontario St S',43.51635847,-79.87063468
 2119,'','Ontario St S Opposite Pine St',43.51712813,-79.87565384
 2120,'','Laurier Av / Ontario St S',43.50903091,-79.86208773
 2121,'','Derry Rd / Ontario St S',43.50774482,-79.86035668
-2122,'','Milton District Hosp 7030 Derry Rd',43.49711146,-79.87031995
 2123,'','Milton Go Sta - 3 / 4 Platform',43.52423419,-79.86617551
-2124,'','Drew Ctr / Thompson Rd S',43.52575979,-79.86442217
+2124,'','Drew Ctr / Thompson Rd S',43.52576663,-79.86441251
 2125,'','Thompson Rd S / Childs Dr',43.52401646,-79.86149051
 2126,'','Thompson Rd S Opposite Mccuaig Dr',43.52228313,-79.85919829
 2127,'','Thompson Rd S / Laurier Av',43.5200259,-79.85617773
@@ -186,7 +163,7 @@
 2199,'','Derry Rd / Cargill Path',43.51004627,-79.85734145
 2200,'','Derry Rd / Holly Av',43.51117912,-79.85611948
 2202,'','Derry Rd / Brothers Cr',43.51418056,-79.85296236
-2203,'','Milton Go Sta - 5 Platform',43.52392368,-79.8670644
+2203,'','Milton Go Sta - 5 Platform',43.52396227,-79.86706367
 2204,'','Childs Dr Opposite Coxe Bv',43.52202313,-79.86316717
 2205,'','Childs Dr Opposite Ledwith Dr',43.51931646,-79.86716606
 2206,'','Childs Dr Opposite Satok Cr',43.51917202,-79.86921773
@@ -329,7 +306,7 @@
 2348,'','Ontario St N / Mountainview Dr',43.52291585,-79.88383815
 2349,'','Ontario St N / Woodward Av',43.52198063,-79.88257798
 2350,'','Ontario St N / George St',43.51999734,-79.87994917
-2351,'','Milton Go Sta - 1a / 1b Platform',43.52390646,-79.86679328
+2351,'','Milton Go Sta - 1a / 1b Platform',43.52394505,-79.86679256
 2352,'','Ontario St N Opposite George St',43.52084479,-79.88066939
 2353,'','Ontario St N / Woodward Av',43.52181924,-79.88194106
 2354,'','Ontario St N Opposite Mountainview Dr',43.52305943,-79.88360329
