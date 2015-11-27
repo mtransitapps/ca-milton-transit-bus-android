@@ -90,7 +90,7 @@
 2103,'','Pringle Av / Wigglesworth Cr',43.49859369,-79.88612884
 2119,'','Ontario St S Opposite Pine St',43.51712813,-79.87565384
 2120,'','Laurier Av / Ontario St S',43.50903091,-79.86208773
-2121,'','Derry Rd / Ontario St S',43.50774482,-79.86035668
+2121,'','Derry Rd Opposite Gervais Terr',43.50774482,-79.86035668
 2123,'','Milton Go Sta - 3 / 4 Platform',43.52423419,-79.86617551
 2124,'','Drew Ctr / Thompson Rd S',43.52576663,-79.86441251
 2125,'','Thompson Rd S / Childs Dr',43.52401646,-79.86149051
@@ -107,7 +107,7 @@
 2136,'','Bennett Bv / Barnard Dr',43.51527146,-79.84212663
 2137,'','Bennett Bv Opposite Yates Dr',43.51678424,-79.8446044
 2138,'','Bennett Bv Opposite Lees Gt',43.51824368,-79.8444894
-2139,'','Bennett Bv / Armstrong Bv',43.51913813,-79.84351663
+2139,'','Ferguson Dr / Armstrong Bv',43.51913813,-79.84351663
 2140,'','Ferguson Dr / Agnew Cr',43.52065065,-79.84188185
 2141,'','Ferguson Dr / Agnew Cr',43.51947433,-79.83859894
 2142,'','Clark Bv / Ferguson Dr',43.51732202,-79.83612385
@@ -170,8 +170,8 @@
 2207,'','Childs Dr Opposite Satok Cr',43.51909479,-79.87115995
 2208,'','Childs Dr / Nipissing Rd',43.51819757,-79.87290662
 2209,'','Childs Dr / Ontario St S',43.51709146,-79.87414106
-2210,'','Ontario St S / Wakerfield Rd',43.515858,-79.87434676
-2211,'','Ontario St S / Wakerfield Rd',43.51467202,-79.87275106
+2210,'','Ontario St S / Wakefield Rd',43.515858,-79.87434676
+2211,'','Ontario St S / Wakefield Rd',43.51467202,-79.87275106
 2212,'','Ontario St S / Donald Campbell Av',43.51277202,-79.87025162
 2213,'','Ontario St S / Pkwy Dr',43.51180198,-79.86896266
 2214,'','Ontario St S / Valleyview Cr',43.50984035,-79.86626829
@@ -201,8 +201,8 @@
 2240,'','Ontario St S Opposite Valleyview Cr',43.51011152,-79.86626849
 2241,'','Ontario St S / Centennial Forest Dr',43.51211775,-79.86893559
 2242,'','Ontario St S Opposite Donald Campbell Av',43.51340257,-79.87055328
-2243,'','Ontario St S Opposite Wakerfield Rd',43.51446587,-79.87205927
-2244,'','Ontario St S Opposite Wakerfield Rd',43.51537091,-79.87324773
+2243,'','Ontario St S Opposite Wakefield Rd',43.51446587,-79.87205927
+2244,'','Ontario St S Opposite Wakefield Rd',43.51537091,-79.87324773
 2245,'','Ontario St S / Laurier Av',43.50719424,-79.86271495
 2246,'','Bronte St S / Derry Rd',43.49572869,-79.87106662
 2248,'','Bronte St S / Mclaughlin Av',43.49379869,-79.86843551
