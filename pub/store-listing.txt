@@ -5,7 +5,7 @@ Milton Transit Bus for MonTransit.
 Schedule. News.
 ----------
 What's new in this version?:
-Schedule from March 28, 2018 to June 30, 2018.
+Schedule from June 26, 2018 to September 1, 2018.
 Tweets from @miltontransit.
 ----------
 Full description:
