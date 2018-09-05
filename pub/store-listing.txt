@@ -5,13 +5,13 @@ Milton Transit Bus for MonTransit.
 Schedule. News.
 ----------
 What's new in this version?:
-Schedule from June 26, 2018 to September 1, 2018.
-Tweets from @miltontransit.
+Schedule from September 5, 2018 to March 30, 2019.
+Tweets from @MiltonTransit.
 ----------
 Full description:
 This app adds Milton Transit buses information to MonTransit.
 
-This app provides the buses schedule and news from @miltontransit on Twitter.
+This app provides the buses schedule and news from @MiltonTransit on Twitter.
 
 Milton Transit buses serve Milton in Ontario, Canada.
 
