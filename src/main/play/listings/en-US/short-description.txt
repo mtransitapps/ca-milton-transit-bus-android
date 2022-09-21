@@ -1,2 +1,1 @@
-Milton Transit Bus for MonTransit.
-Schedule. News.
+Milton Transit Bus for MonTransit. Schedule. News.
