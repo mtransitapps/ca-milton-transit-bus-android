@@ -1,79 +1,137 @@
-'1242322',709,205400,0,'Dymott & Savoline',0
-'1242383',709,70600,0,'Dymott & Savoline',0
-'1242456',709,130900,0,'Dymott & Savoline',0
-'1242550',709,94900,0,'Dymott & Savoline',0
-'1242625',709,190900,0,'Dymott & Savoline',0
-'1242790',709,73600,0,'Dymott & Savoline',0
-'1242791',709,141900,0,'Dymott & Savoline',0
-'1242812',709,170900,0,'Dymott & Savoline',0
-'1242835',709,150900,0,'Dymott & Savoline',0
-'1242857',709,100900,0,'Dymott & Savoline',0
-'1242976',709,101900,0,'Dymott & Savoline',0
-'1242989',709,172400,0,'Dymott & Savoline',0
-'1243030',709,111900,0,'Dymott & Savoline',0
-'1243072',709,121900,0,'Dymott & Savoline',0
-'1243084',709,165400,0,'Dymott & Savoline',0
-'1243110',709,90900,0,'Dymott & Savoline',0
-'1243153',709,120900,0,'Dymott & Savoline',0
-'1243154',709,190900,0,'Dymott & Savoline',0
-'1243281',709,91900,0,'Dymott & Savoline',0
-'1243303',709,80900,0,'Dymott & Savoline',0
-'1243310',709,144900,0,'Dymott & Savoline',0
-'1243340',709,151900,0,'Dymott & Savoline',0
-'1243413',709,65100,0,'Dymott & Savoline',0
-'1243559',709,161900,0,'Dymott & Savoline',0
-'1243576',709,60600,0,'Dymott & Savoline',0
-'1243603',709,134900,0,'Dymott & Savoline',0
-'1243758',709,202400,0,'Dymott & Savoline',0
-'1243849',709,180900,0,'Dymott & Savoline',0
-'1243956',709,193900,0,'Dymott & Savoline',0
-'1244049',709,175400,0,'Dymott & Savoline',0
-'1244117',709,53600,0,'Dymott & Savoline',0
-'1244141',709,160900,0,'Dymott & Savoline',0
-'1244211',709,154900,0,'Dymott & Savoline',0
-'1244290',709,80600,0,'Dymott & Savoline',0
-'1244329',709,110900,0,'Dymott & Savoline',0
-'1244345',709,140900,0,'Dymott & Savoline',0
-'1244352',709,63600,0,'Dymott & Savoline',0
-'1244355',709,182400,0,'Dymott & Savoline',0
-'1244467',709,84900,0,'Dymott & Savoline',0
-'1244474',709,131900,0,'Dymott & Savoline',0
-'1268357',809,165400,0,'Bronte & Louis St Laurent',0
-'1268360',809,175400,0,'Bronte & Louis St Laurent',0
-'1268361',809,123900,0,'Bronte & Louis St Laurent',0
-'1268369',809,202400,0,'Bronte & Louis St Laurent',0
-'1268370',809,172400,0,'Bronte & Louis St Laurent',0
-'1268371',809,154900,0,'Bronte & Louis St Laurent',0
-'1268373',809,73900,0,'Bronte & Louis St Laurent',0
-'1268407',809,80600,0,'Bronte & Louis St Laurent',0
-'1268419',809,190900,0,'Bronte & Louis St Laurent',0
-'1268428',809,131900,0,'Bronte & Louis St Laurent',0
-'1268435',809,143900,0,'Bronte & Louis St Laurent',0
-'1268437',809,83900,0,'Bronte & Louis St Laurent',0
-'1268441',809,193900,0,'Bronte & Louis St Laurent',0
-'1268442',809,113900,0,'Bronte & Louis St Laurent',0
-'1268448',809,134900,0,'Bronte & Louis St Laurent',0
-'1268451',809,133900,0,'Bronte & Louis St Laurent',0
-'1268464',809,153900,0,'Bronte & Louis St Laurent',0
-'1268467',809,60600,0,'Bronte & Louis St Laurent',0
-'1268491',809,151900,0,'Bronte & Louis St Laurent',0
-'1268494',809,101900,0,'Bronte & Louis St Laurent',0
-'1268508',809,103900,0,'Bronte & Louis St Laurent',0
-'1268509',809,63600,0,'Bronte & Louis St Laurent',0
-'1268510',809,161900,0,'Bronte & Louis St Laurent',0
-'1268513',809,141900,0,'Bronte & Louis St Laurent',0
-'1268515',809,182400,0,'Bronte & Louis St Laurent',0
-'1268517',809,70600,0,'Bronte & Louis St Laurent',0
-'1268520',809,144900,0,'Bronte & Louis St Laurent',0
-'1268521',809,84900,0,'Bronte & Louis St Laurent',0
-'1268522',809,73600,0,'Bronte & Louis St Laurent',0
-'1268524',809,93900,0,'Bronte & Louis St Laurent',0
-'1268535',809,121900,0,'Bronte & Louis St Laurent',0
-'1268541',809,91900,0,'Bronte & Louis St Laurent',0
-'1268546',809,163900,0,'Bronte & Louis St Laurent',0
-'1268547',809,183900,0,'Bronte & Louis St Laurent',0
-'1268555',809,111900,0,'Bronte & Louis St Laurent',0
-'1268562',809,173900,0,'Bronte & Louis St Laurent',0
-'1243993',5009,145000,0,'Scott & Derry',0
-'1243615',5309,81400,,'',0
-'1243752',5309,155000,0,'Milton GO',0
+'1270848',709,202600,0,'Dymott & Savoline',0
+'1270854',709,60600,0,'Dymott & Savoline',0
+'1270862',709,182600,0,'Dymott & Savoline',0
+'1270874',709,74900,0,'Dymott & Savoline',0
+'1270895',709,101900,0,'Dymott & Savoline',0
+'1270896',709,191100,0,'Dymott & Savoline',0
+'1270935',709,140900,0,'Dymott & Savoline',0
+'1270950',709,172600,0,'Dymott & Savoline',0
+'1270992',709,175600,0,'Dymott & Savoline',0
+'1271001',709,153400,0,'Dymott & Savoline',0
+'1271013',709,111900,0,'Dymott & Savoline',0
+'1271027',709,141900,0,'Dymott & Savoline',0
+'1271029',709,194100,0,'Dymott & Savoline',0
+'1271038',709,110900,0,'Dymott & Savoline',0
+'1271054',709,182600,0,'Dymott & Savoline',0
+'1271070',709,121900,0,'Dymott & Savoline',0
+'1271086',709,154900,0,'Dymott & Savoline',0
+'1271092',709,94900,0,'Dymott & Savoline',0
+'1271093',709,63600,0,'Dymott & Savoline',0
+'1271118',709,141900,0,'Dymott & Savoline',0
+'1271126',709,170900,0,'Dymott & Savoline',0
+'1271149',709,94900,0,'Dymott & Savoline',0
+'1271157',709,194100,0,'Dymott & Savoline',0
+'1271161',709,190900,0,'Dymott & Savoline',0
+'1271165',709,151900,0,'Dymott & Savoline',0
+'1271172',709,175600,0,'Dymott & Savoline',0
+'1271180',709,161900,0,'Dymott & Savoline',0
+'1271208',709,70600,0,'Dymott & Savoline',0
+'1271219',709,160900,0,'Dymott & Savoline',0
+'1271236',709,65100,0,'Dymott & Savoline',0
+'1271252',709,91900,0,'Dymott & Savoline',0
+'1271264',709,154900,0,'Dymott & Savoline',0
+'1271293',709,80900,0,'Dymott & Savoline',0
+'1271303',709,100900,0,'Dymott & Savoline',0
+'1271305',709,134900,0,'Dymott & Savoline',0
+'1271335',709,165600,0,'Dymott & Savoline',0
+'1271341',709,205600,0,'Dymott & Savoline',0
+'1271355',709,60600,0,'Dymott & Savoline',0
+'1271366',709,84900,0,'Dymott & Savoline',0
+'1271371',709,120900,0,'Dymott & Savoline',0
+'1271379',709,53600,0,'Dymott & Savoline',0
+'1271444',709,73600,0,'Dymott & Savoline',0
+'1271468',709,151900,0,'Dymott & Savoline',0
+'1271490',709,202600,0,'Dymott & Savoline',0
+'1271513',709,144900,0,'Dymott & Savoline',0
+'1271521',709,191100,0,'Dymott & Savoline',0
+'1271529',709,80600,0,'Dymott & Savoline',0
+'1271539',709,134900,0,'Dymott & Savoline',0
+'1271552',709,82100,0,'Dymott & Savoline',0
+'1271562',709,70600,0,'Dymott & Savoline',0
+'1271570',709,121900,0,'Dymott & Savoline',0
+'1271577',709,130900,0,'Dymott & Savoline',0
+'1271588',709,101900,0,'Dymott & Savoline',0
+'1271662',709,90900,0,'Dymott & Savoline',0
+'1271674',709,150400,0,'Dymott & Savoline',0
+'1271694',709,84900,0,'Dymott & Savoline',0
+'1271704',709,150900,0,'Dymott & Savoline',0
+'1271720',709,165600,0,'Dymott & Savoline',0
+'1271735',709,172600,0,'Dymott & Savoline',0
+'1271748',709,161900,0,'Dymott & Savoline',0
+'1271760',709,111900,0,'Dymott & Savoline',0
+'1271779',709,131900,0,'Dymott & Savoline',0
+'1271815',709,65100,0,'Dymott & Savoline',0
+'1271819',709,53600,0,'Dymott & Savoline',0
+'1271823',709,144900,0,'Dymott & Savoline',0
+'1271848',709,63600,0,'Dymott & Savoline',0
+'1271857',709,73600,0,'Dymott & Savoline',0
+'1271861',709,80600,0,'Dymott & Savoline',0
+'1271864',709,205600,0,'Dymott & Savoline',0
+'1271867',709,91900,0,'Dymott & Savoline',0
+'1271895',709,131900,0,'Dymott & Savoline',0
+'1271902',709,180900,0,'Dymott & Savoline',0
+'1270846',809,111900,0,'Bronte & Louis St Laurent',0
+'1270864',809,172600,0,'Bronte & Louis St Laurent',0
+'1270881',809,123900,0,'Bronte & Louis St Laurent',0
+'1270885',809,70600,0,'Bronte & Louis St Laurent',0
+'1270907',809,154900,0,'Bronte & Louis St Laurent',0
+'1270921',809,165600,0,'Bronte & Louis St Laurent',0
+'1270946',809,141900,0,'Bronte & Louis St Laurent',0
+'1270949',809,141900,0,'Bronte & Louis St Laurent',0
+'1270967',809,150400,0,'Bronte & Louis St Laurent',0
+'1270978',809,133900,0,'Bronte & Louis St Laurent',0
+'1270993',809,101900,0,'Bronte & Louis St Laurent',0
+'1271003',809,183900,0,'Bronte & Louis St Laurent',0
+'1271037',809,63600,0,'Bronte & Louis St Laurent',0
+'1271047',809,154900,0,'Bronte & Louis St Laurent',0
+'1271052',809,131900,0,'Bronte & Louis St Laurent',0
+'1271084',809,191100,0,'Bronte & Louis St Laurent',0
+'1271089',809,182600,0,'Bronte & Louis St Laurent',0
+'1271095',809,144900,0,'Bronte & Louis St Laurent',0
+'1271125',809,161900,0,'Bronte & Louis St Laurent',0
+'1271129',809,172600,0,'Bronte & Louis St Laurent',0
+'1271130',809,70600,0,'Bronte & Louis St Laurent',0
+'1271147',809,194100,0,'Bronte & Louis St Laurent',0
+'1271170',809,91900,0,'Bronte & Louis St Laurent',0
+'1271200',809,153900,0,'Bronte & Louis St Laurent',0
+'1271215',809,194100,0,'Bronte & Louis St Laurent',0
+'1271249',809,60600,0,'Bronte & Louis St Laurent',0
+'1271253',809,93900,0,'Bronte & Louis St Laurent',0
+'1271280',809,173900,0,'Bronte & Louis St Laurent',0
+'1271281',809,175600,0,'Bronte & Louis St Laurent',0
+'1271285',809,191100,0,'Bronte & Louis St Laurent',0
+'1271320',809,121900,0,'Bronte & Louis St Laurent',0
+'1271352',809,111900,0,'Bronte & Louis St Laurent',0
+'1271357',809,144900,0,'Bronte & Louis St Laurent',0
+'1271365',809,80600,0,'Bronte & Louis St Laurent',0
+'1271390',809,91900,0,'Bronte & Louis St Laurent',0
+'1271402',809,161900,0,'Bronte & Louis St Laurent',0
+'1271406',809,134900,0,'Bronte & Louis St Laurent',0
+'1271410',809,151900,0,'Bronte & Louis St Laurent',0
+'1271429',809,175600,0,'Bronte & Louis St Laurent',0
+'1271469',809,165600,0,'Bronte & Louis St Laurent',0
+'1271498',809,73900,0,'Bronte & Louis St Laurent',0
+'1271505',809,80600,0,'Bronte & Louis St Laurent',0
+'1271531',809,121900,0,'Bronte & Louis St Laurent',0
+'1271548',809,73600,0,'Bronte & Louis St Laurent',0
+'1271597',809,73600,0,'Bronte & Louis St Laurent',0
+'1271598',809,134900,0,'Bronte & Louis St Laurent',0
+'1271627',809,84900,0,'Bronte & Louis St Laurent',0
+'1271657',809,182600,0,'Bronte & Louis St Laurent',0
+'1271658',809,163900,0,'Bronte & Louis St Laurent',0
+'1271671',809,103900,0,'Bronte & Louis St Laurent',0
+'1271680',809,63600,0,'Bronte & Louis St Laurent',0
+'1271698',809,143900,0,'Bronte & Louis St Laurent',0
+'1271727',809,131900,0,'Bronte & Louis St Laurent',0
+'1271741',809,202600,0,'Bronte & Louis St Laurent',0
+'1271807',809,101900,0,'Bronte & Louis St Laurent',0
+'1271829',809,84900,0,'Bronte & Louis St Laurent',0
+'1271838',809,202600,0,'Bronte & Louis St Laurent',0
+'1271840',809,151900,0,'Bronte & Louis St Laurent',0
+'1271841',809,60600,0,'Bronte & Louis St Laurent',0
+'1271860',809,83900,0,'Bronte & Louis St Laurent',0
+'1271893',809,113900,0,'Bronte & Louis St Laurent',0
+'1271188',5009,145000,0,'Scott & Derry',0
+'1270929',5309,81400,,'',0
+'1271229',5309,155000,0,'Milton GO',0
+'1271524',5309,155000,0,'Milton GO',0
