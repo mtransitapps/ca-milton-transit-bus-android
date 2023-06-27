@@ -1,4 +1,3 @@
-'1279138',309,80200,0,'Louis St Laurent & 4th',0
 '1279172',309,91200,0,'Louis St Laurent & 4th',0
 '1279207',309,144200,0,'Louis St Laurent & 4th',0
 '1279260',309,161200,0,'Louis St Laurent & 4th',0
@@ -7,22 +6,14 @@
 '1279591',309,154200,0,'Louis St Laurent & 4th',0
 '1279748',309,171900,0,'Louis St Laurent & 4th',0
 '1279846',309,55900,0,'Louis St Laurent & 4th',0
-'1280070',309,90200,0,'Louis St Laurent & 4th',0
-'1280304',309,100200,0,'Louis St Laurent & 4th',0
-'1280585',309,110200,0,'Louis St Laurent & 4th',0
-'1280648',309,140200,0,'Louis St Laurent & 4th',0
 '1280669',309,174900,0,'Louis St Laurent & 4th',0
 '1280679',309,151200,0,'Louis St Laurent & 4th',0
-'1280766',309,130200,0,'Louis St Laurent & 4th',0
-'1280968',309,170200,0,'Louis St Laurent & 4th',0
 '1281137',309,101200,0,'Louis St Laurent & 4th',0
 '1281237',309,84200,0,'Louis St Laurent & 4th',0
 '1281274',309,201900,0,'Louis St Laurent & 4th',0
 '1281282',309,52900,0,'Louis St Laurent & 4th',0
-'1281332',309,120200,0,'Louis St Laurent & 4th',0
 '1281437',309,193400,0,'Louis St Laurent & 4th',0
 '1281479',309,65900,0,'Louis St Laurent & 4th',0
-'1281493',309,190200,0,'Louis St Laurent & 4th',0
 '1281515',309,141200,0,'Louis St Laurent & 4th',0
 '1281575',309,204900,0,'Louis St Laurent & 4th',0
 '1281825',309,62900,0,'Louis St Laurent & 4th',0
@@ -34,13 +25,10 @@
 '1282370',309,162700,0,'Louis St Laurent & 4th',0
 '1282468',309,131200,0,'Louis St Laurent & 4th',0
 '1282594',309,74200,0,'Louis St Laurent & 4th',0
-'1282725',309,160200,0,'Louis St Laurent & 4th',0
-'1282819',309,180200,0,'Louis St Laurent & 4th',0
 '1282875',309,142700,0,'Louis St Laurent & 4th',0
 '1283066',309,134200,0,'Louis St Laurent & 4th',0
 '1283204',309,181900,0,'Louis St Laurent & 4th',0
 '1283330',309,75900,0,'Louis St Laurent & 4th',0
-'1283568',309,150200,0,'Louis St Laurent & 4th',0
 '1283691',309,72900,0,'Louis St Laurent & 4th',0
 '1283756',309,94200,0,'Louis St Laurent & 4th',0
 '1295141',309,75900,0,'Louis St Laurent & 4th',0
@@ -76,59 +64,36 @@
 '1296308',309,84200,0,'Louis St Laurent & 4th',0
 '1279013',409,193400,0,'4th & Louis St Laurent',0
 '1279084',409,114200,0,'4th & Louis St Laurent',0
-'1279108',409,180200,0,'4th & Louis St Laurent',0
-'1279135',409,103200,0,'4th & Louis St Laurent',0
 '1279361',409,155700,0,'4th & Louis St Laurent',0
-'1279429',409,150200,0,'4th & Louis St Laurent',0
 '1279452',409,174900,0,'4th & Louis St Laurent',0
 '1279481',409,164900,0,'4th & Louis St Laurent',0
 '1279482',409,201900,0,'4th & Louis St Laurent',0
 '1279545',409,52900,0,'4th & Louis St Laurent',0
-'1279674',409,140200,0,'4th & Louis St Laurent',0
-'1280003',409,83200,0,'4th & Louis St Laurent',0
 '1280450',409,171900,0,'4th & Louis St Laurent',0
 '1280474',409,65900,0,'4th & Louis St Laurent',0
 '1280522',409,55900,0,'4th & Louis St Laurent',0
 '1280671',409,75900,0,'4th & Louis St Laurent',0
-'1280847',409,153200,0,'4th & Louis St Laurent',0
-'1280998',409,170200,0,'4th & Louis St Laurent',0
 '1281179',409,134200,0,'4th & Louis St Laurent',0
-'1281302',409,183200,0,'4th & Louis St Laurent',0
-'1281346',409,173200,0,'4th & Louis St Laurent',0
-'1281407',409,130200,0,'4th & Louis St Laurent',0
-'1281481',409,73200,0,'4th & Louis St Laurent',0
-'1281599',409,143200,0,'4th & Louis St Laurent',0
 '1281784',409,181900,0,'4th & Louis St Laurent',0
-'1281822',409,113200,0,'4th & Louis St Laurent',0
 '1281853',409,204900,0,'4th & Louis St Laurent',0
-'1281886',409,123200,0,'4th & Louis St Laurent',0
 '1282074',409,142700,0,'4th & Louis St Laurent',0
-'1282135',409,160200,0,'4th & Louis St Laurent',0
 '1282139',409,111200,0,'4th & Louis St Laurent',0
-'1282225',409,93200,0,'4th & Louis St Laurent',0
-'1282252',409,100200,0,'4th & Louis St Laurent',0
 '1282264',409,101200,0,'4th & Louis St Laurent',0
 '1282282',409,62900,0,'4th & Louis St Laurent',0
 '1282322',409,121200,0,'4th & Louis St Laurent',0
 '1282324',409,104200,0,'4th & Louis St Laurent',0
-'1282354',409,90200,0,'4th & Louis St Laurent',0
 '1282454',409,141200,0,'4th & Louis St Laurent',0
 '1282480',409,151200,0,'4th & Louis St Laurent',0
-'1282516',409,133200,0,'4th & Louis St Laurent',0
 '1282573',409,161200,0,'4th & Louis St Laurent',0
 '1282612',409,190400,0,'4th & Louis St Laurent',0
 '1282701',409,84200,0,'4th & Louis St Laurent',0
 '1282784',409,94200,0,'4th & Louis St Laurent',0
 '1282815',409,124200,0,'4th & Louis St Laurent',0
-'1282897',409,80200,0,'4th & Louis St Laurent',0
 '1283325',409,91200,0,'4th & Louis St Laurent',0
 '1283391',409,81200,0,'4th & Louis St Laurent',0
 '1283407',409,74400,0,'4th & Louis St Laurent',0
-'1283424',409,120200,0,'4th & Louis St Laurent',0
 '1283501',409,154200,0,'4th & Louis St Laurent',0
 '1283503',409,72900,0,'4th & Louis St Laurent',0
-'1283746',409,110200,0,'4th & Louis St Laurent',0
-'1283856',409,163200,0,'4th & Louis St Laurent',0
 '1283955',409,64400,0,'4th & Louis St Laurent',0
 '1283958',409,165700,0,'4th & Louis St Laurent',0
 '1284060',409,144200,0,'4th & Louis St Laurent',0
@@ -171,16 +136,10 @@
 '1279295',509,75900,0,'Philbrook & Hepburn',0
 '1279523',509,134200,0,'Philbrook & Hepburn',0
 '1279553',509,114200,0,'Philbrook & Hepburn',0
-'1279784',509,100200,0,'Philbrook & Hepburn',0
 '1279983',509,104200,0,'Philbrook & Hepburn',0
-'1280119',509,140200,0,'Philbrook & Hepburn',0
-'1280318',509,190200,0,'Philbrook & Hepburn',0
 '1281059',509,201900,0,'Philbrook & Hepburn',0
 '1281100',509,181900,0,'Philbrook & Hepburn',0
-'1281139',509,180200,0,'Philbrook & Hepburn',0
 '1281197',509,190400,0,'Philbrook & Hepburn',0
-'1281417',509,110200,0,'Philbrook & Hepburn',0
-'1281450',509,80200,0,'Philbrook & Hepburn',0
 '1281497',509,144200,0,'Philbrook & Hepburn',0
 '1281800',509,171900,0,'Philbrook & Hepburn',0
 '1282083',509,91200,0,'Philbrook & Hepburn',0
@@ -188,15 +147,9 @@
 '1282214',509,164900,0,'Philbrook & Hepburn',0
 '1282239',509,55900,0,'Philbrook & Hepburn',0
 '1282305',509,161200,0,'Philbrook & Hepburn',0
-'1282445',509,150200,0,'Philbrook & Hepburn',0
 '1282545',509,154200,0,'Philbrook & Hepburn',0
-'1282668',509,90200,0,'Philbrook & Hepburn',0
 '1282848',509,141200,0,'Philbrook & Hepburn',0
-'1282871',509,130200,0,'Philbrook & Hepburn',0
-'1283101',509,170200,0,'Philbrook & Hepburn',0
-'1283285',509,160200,0,'Philbrook & Hepburn',0
 '1283420',509,124200,0,'Philbrook & Hepburn',0
-'1283439',509,120200,0,'Philbrook & Hepburn',0
 '1283472',509,81200,0,'Philbrook & Hepburn',0
 '1283611',509,65900,0,'Philbrook & Hepburn',0
 '1283928',509,72900,0,'Philbrook & Hepburn',0
@@ -235,16 +188,9 @@
 '1279308',809,84100,0,'Bronte & Louis St Laurent',0
 '1279579',809,121100,0,'Bronte & Louis St Laurent',0
 '1279749',809,65800,0,'Bronte & Louis St Laurent',0
-'1279817',809,183100,0,'Bronte & Louis St Laurent',0
-'1279903',809,153100,0,'Bronte & Louis St Laurent',0
 '1280029',809,131100,0,'Bronte & Louis St Laurent',0
-'1280178',809,163100,0,'Bronte & Louis St Laurent',0
-'1280220',809,113100,0,'Bronte & Louis St Laurent',0
 '1280223',809,190300,0,'Bronte & Louis St Laurent',0
 '1280499',809,91100,0,'Bronte & Louis St Laurent',0
-'1280653',809,103100,0,'Bronte & Louis St Laurent',0
-'1280941',809,123100,0,'Bronte & Louis St Laurent',0
-'1281033',809,143100,0,'Bronte & Louis St Laurent',0
 '1281083',809,145600,0,'Bronte & Louis St Laurent',0
 '1281249',809,164800,0,'Bronte & Louis St Laurent',0
 '1281633',809,201800,0,'Bronte & Louis St Laurent',0
@@ -253,15 +199,10 @@
 '1282497',809,101100,0,'Bronte & Louis St Laurent',0
 '1282585',809,154100,0,'Bronte & Louis St Laurent',0
 '1282716',809,193300,0,'Bronte & Louis St Laurent',0
-'1282926',809,173100,0,'Bronte & Louis St Laurent',0
 '1282945',809,134100,0,'Bronte & Louis St Laurent',0
-'1283051',809,133100,0,'Bronte & Louis St Laurent',0
-'1283141',809,83100,0,'Bronte & Louis St Laurent',0
-'1283151',809,93100,0,'Bronte & Louis St Laurent',0
 '1283178',809,141100,0,'Bronte & Louis St Laurent',0
 '1283249',809,62800,0,'Bronte & Louis St Laurent',0
 '1283453',809,161100,0,'Bronte & Louis St Laurent',0
-'1283566',809,73100,0,'Bronte & Louis St Laurent',0
 '1283732',809,111100,0,'Bronte & Louis St Laurent',0
 '1283800',809,151100,0,'Bronte & Louis St Laurent',0
 '1284000',809,171800,0,'Bronte & Louis St Laurent',0
