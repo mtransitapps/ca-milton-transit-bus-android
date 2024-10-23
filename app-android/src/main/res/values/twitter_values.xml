@@ -7,6 +7,9 @@
     <string-array name="twitter_screen_names">
         <item>miltontransit</item>
     </string-array>
+    <string-array name="twitter_screen_names_id">
+        <item>542120362</item>
+    </string-array>
     <string-array name="twitter_screen_names_lang">
         <item>@string/news_provider_language_unknown_show_all</item>
     </string-array>
