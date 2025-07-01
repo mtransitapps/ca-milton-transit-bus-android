@@ -1,144 +1,89 @@
-'1403157',709,205700,0,'Dymott & Savoline',0
-'1403182',709,202700,0,'Dymott & Savoline',0
-'1403188',709,184200,0,'Dymott & Savoline',0
-'1403226',709,152200,0,'Dymott & Savoline',0
-'1403230',709,121900,0,'Dymott & Savoline',0
-'1403261',709,100700,0,'Dymott & Savoline',0
-'1403276',709,144900,0,'Dymott & Savoline',0
-'1403288',709,194200,0,'Dymott & Savoline',0
-'1403321',709,150700,0,'Dymott & Savoline',0
-'1403324',709,155700,0,'Dymott & Savoline',0
-'1403328',709,83900,0,'Dymott & Savoline',0
-'1403331',709,184200,0,'Dymott & Savoline',0
-'1403338',709,131900,0,'Dymott & Savoline',0
-'1403347',709,80700,0,'Dymott & Savoline',0
-'1403359',709,162700,0,'Dymott & Savoline',0
-'1403385',709,144900,0,'Dymott & Savoline',0
-'1403410',709,65900,0,'Dymott & Savoline',0
-'1403437',709,62900,0,'Dymott & Savoline',0
-'1403449',709,90700,0,'Dymott & Savoline',0
-'1403485',709,120700,0,'Dymott & Savoline',0
-'1403493',709,55900,0,'Dymott & Savoline',0
-'1403498',709,151900,0,'Dymott & Savoline',0
-'1403512',709,75900,0,'Dymott & Savoline',0
-'1403515',709,90900,0,'Dymott & Savoline',0
-'1403520',709,110700,0,'Dymott & Savoline',0
-'1403536',709,132200,0,'Dymott & Savoline',0
-'1403551',709,90900,0,'Dymott & Savoline',0
-'1403580',709,191200,0,'Dymott & Savoline',0
-'1403610',709,165700,0,'Dymott & Savoline',0
-'1403612',709,174200,0,'Dymott & Savoline',0
-'1403614',709,163700,0,'Dymott & Savoline',0
-'1403623',709,183700,0,'Dymott & Savoline',0
-'1403631',709,52900,0,'Dymott & Savoline',0
-'1403646',709,215700,0,'Dymott & Savoline',0
-'1403664',709,174200,0,'Dymott & Savoline',0
-'1403673',709,73900,0,'Dymott & Savoline',0
-'1403695',709,212700,0,'Dymott & Savoline',0
-'1403783',709,72900,0,'Dymott & Savoline',0
-'1403791',709,83900,0,'Dymott & Savoline',0
-'1403821',709,141900,0,'Dymott & Savoline',0
-'1403824',709,52900,0,'Dymott & Savoline',0
-'1403834',709,100900,0,'Dymott & Savoline',0
-'1403863',709,110900,0,'Dymott & Savoline',0
-'1403877',709,93900,0,'Dymott & Savoline',0
-'1403909',709,134900,0,'Dymott & Savoline',0
-'1403914',709,212700,0,'Dymott & Savoline',0
-'1403927',709,153200,0,'Dymott & Savoline',0
-'1403951',709,131900,0,'Dymott & Savoline',0
-'1403962',709,100900,0,'Dymott & Savoline',0
-'1403966',709,110900,0,'Dymott & Savoline',0
-'1403968',709,181200,0,'Dymott & Savoline',0
-'1403975',709,151900,0,'Dymott & Savoline',0
-'1403993',709,191200,0,'Dymott & Savoline',0
-'1404008',709,165700,0,'Dymott & Savoline',0
-'1404013',709,205700,0,'Dymott & Savoline',0
-'1404091',709,155700,0,'Dymott & Savoline',0
-'1404185',709,64700,0,'Dymott & Savoline',0
-'1404223',709,141900,0,'Dymott & Savoline',0
-'1404238',709,202700,0,'Dymott & Savoline',0
-'1404286',709,93900,0,'Dymott & Savoline',0
-'1404292',709,215700,0,'Dymott & Savoline',0
-'1404302',709,55900,0,'Dymott & Savoline',0
-'1404343',709,134900,0,'Dymott & Savoline',0
-'1404352',709,75900,0,'Dymott & Savoline',0
-'1404360',709,194200,0,'Dymott & Savoline',0
-'1404373',709,74700,0,'Dymott & Savoline',0
-'1404407',709,64700,0,'Dymott & Savoline',0
-'1404428',709,173700,0,'Dymott & Savoline',0
-'1404443',709,142200,0,'Dymott & Savoline',0
-'1404452',709,62900,0,'Dymott & Savoline',0
-'1404465',709,181200,0,'Dymott & Savoline',0
-'1404492',709,72900,0,'Dymott & Savoline',0
-'1404528',709,121900,0,'Dymott & Savoline',0
-'1404586',709,162700,0,'Dymott & Savoline',0
-'1404589',709,65900,0,'Dymott & Savoline',0
-'1403149',909,155700,0,'Regional Rd 25 & Britannia',0
-'1403163',909,180700,0,'Regional Rd 25 & Britannia',0
-'1403170',909,83900,0,'Regional Rd 25 & Britannia',0
-'1403178',909,165700,0,'Regional Rd 25 & Britannia',0
-'1403180',909,144700,0,'Regional Rd 25 & Britannia',0
-'1403234',909,212700,0,'Regional Rd 25 & Britannia',0
-'1403250',909,184200,0,'Regional Rd 25 & Britannia',0
-'1403253',909,212700,0,'Regional Rd 25 & Britannia',0
-'1403262',909,144700,0,'Regional Rd 25 & Britannia',0
-'1403284',909,62900,0,'Regional Rd 25 & Britannia',0
-'1403289',909,73700,0,'Regional Rd 25 & Britannia',0
-'1403298',909,131900,0,'Regional Rd 25 & Britannia',0
-'1403352',909,181200,0,'Regional Rd 25 & Britannia',0
-'1403375',909,93900,0,'Regional Rd 25 & Britannia',0
-'1403390',909,174200,0,'Regional Rd 25 & Britannia',0
-'1403476',909,165700,0,'Regional Rd 25 & Britannia',0
-'1403481',909,73900,0,'Regional Rd 25 & Britannia',0
-'1403492',909,191200,0,'Regional Rd 25 & Britannia',0
-'1403519',909,155200,0,'Regional Rd 25 & Britannia',0
-'1403522',909,181200,0,'Regional Rd 25 & Britannia',0
-'1403548',909,184200,0,'Regional Rd 25 & Britannia',0
-'1403567',909,145200,0,'Regional Rd 25 & Britannia',0
-'1403592',909,103700,0,'Regional Rd 25 & Britannia',0
-'1403600',909,215700,0,'Regional Rd 25 & Britannia',0
-'1403604',909,83700,0,'Regional Rd 25 & Britannia',0
-'1403605',909,215700,0,'Regional Rd 25 & Britannia',0
-'1403648',909,131900,0,'Regional Rd 25 & Britannia',0
-'1403662',909,202700,0,'Regional Rd 25 & Britannia',0
-'1403678',909,103900,0,'Regional Rd 25 & Britannia',0
-'1403699',909,170700,0,'Regional Rd 25 & Britannia',0
-'1403711',909,113900,0,'Regional Rd 25 & Britannia',0
-'1403717',909,65900,0,'Regional Rd 25 & Britannia',0
-'1403735',909,125200,0,'Regional Rd 25 & Britannia',0
-'1403736',909,113700,0,'Regional Rd 25 & Britannia',0
-'1403772',909,55900,0,'Regional Rd 25 & Britannia',0
-'1403781',909,205700,0,'Regional Rd 25 & Britannia',0
-'1403947',909,135200,0,'Regional Rd 25 & Britannia',0
-'1403956',909,155700,0,'Regional Rd 25 & Britannia',0
-'1403965',909,62900,0,'Regional Rd 25 & Britannia',0
-'1403969',909,141900,0,'Regional Rd 25 & Britannia',0
-'1403971',909,162700,0,'Regional Rd 25 & Britannia',0
-'1403995',909,113900,0,'Regional Rd 25 & Britannia',0
-'1404012',909,124900,0,'Regional Rd 25 & Britannia',0
-'1404016',909,124900,0,'Regional Rd 25 & Britannia',0
-'1404120',909,174200,0,'Regional Rd 25 & Britannia',0
-'1404128',909,194200,0,'Regional Rd 25 & Britannia',0
-'1404142',909,55900,0,'Regional Rd 25 & Britannia',0
-'1404232',909,162700,0,'Regional Rd 25 & Britannia',0
-'1404234',909,191200,0,'Regional Rd 25 & Britannia',0
-'1404251',909,93700,0,'Regional Rd 25 & Britannia',0
-'1404267',909,52900,0,'Regional Rd 25 & Britannia',0
-'1404293',909,190700,0,'Regional Rd 25 & Britannia',0
-'1404297',909,65900,0,'Regional Rd 25 & Britannia',0
-'1404311',909,93900,0,'Regional Rd 25 & Britannia',0
-'1404320',909,194200,0,'Regional Rd 25 & Britannia',0
-'1404350',909,83900,0,'Regional Rd 25 & Britannia',0
-'1404405',909,103900,0,'Regional Rd 25 & Britannia',0
-'1404416',909,205700,0,'Regional Rd 25 & Britannia',0
-'1404485',909,141900,0,'Regional Rd 25 & Britannia',0
-'1404551',909,134900,0,'Regional Rd 25 & Britannia',0
-'1404552',909,134900,0,'Regional Rd 25 & Britannia',0
-'1404563',909,52900,0,'Regional Rd 25 & Britannia',0
-'1404574',909,202700,0,'Regional Rd 25 & Britannia',0
-'1403477',1000909,151700,,'',0
-'1403508',1000909,72900,,'',0
-'1403979',1000909,72900,,'',0
-'1404090',1000909,81400,,'',0
-'1404107',1000909,81400,,'',0
-'1404171',1000909,151700,,'',0
+'1469478',709,52900,0,'Dymott & Savoline',0
+'1469479',709,62900,0,'Dymott & Savoline',0
+'1469480',709,72900,0,'Dymott & Savoline',0
+'1469481',709,90900,0,'Dymott & Savoline',0
+'1469482',709,100900,0,'Dymott & Savoline',0
+'1469483',709,110900,0,'Dymott & Savoline',0
+'1469484',709,121900,0,'Dymott & Savoline',0
+'1469485',709,131900,0,'Dymott & Savoline',0
+'1469486',709,141900,0,'Dymott & Savoline',0
+'1469487',709,151900,0,'Dymott & Savoline',0
+'1469488',709,55900,0,'Dymott & Savoline',0
+'1469489',709,65900,0,'Dymott & Savoline',0
+'1469490',709,75900,0,'Dymott & Savoline',0
+'1469491',709,134900,0,'Dymott & Savoline',0
+'1469492',709,144900,0,'Dymott & Savoline',0
+'1469493',709,155700,0,'Dymott & Savoline',0
+'1469494',709,165700,0,'Dymott & Savoline',0
+'1469495',709,181200,0,'Dymott & Savoline',0
+'1469496',709,191200,0,'Dymott & Savoline',0
+'1469497',709,202700,0,'Dymott & Savoline',0
+'1469498',709,212700,0,'Dymott & Savoline',0
+'1469499',709,83900,0,'Dymott & Savoline',0
+'1469500',709,93900,0,'Dymott & Savoline',0
+'1469501',709,162700,0,'Dymott & Savoline',0
+'1469502',709,174200,0,'Dymott & Savoline',0
+'1469503',709,184200,0,'Dymott & Savoline',0
+'1469504',709,194200,0,'Dymott & Savoline',0
+'1469505',709,205700,0,'Dymott & Savoline',0
+'1469506',709,215700,0,'Dymott & Savoline',0
+'1469507',709,64700,0,'Dymott & Savoline',0
+'1469965',709,80700,0,'Dymott & Savoline',0
+'1469966',709,90700,0,'Dymott & Savoline',0
+'1469967',709,100700,0,'Dymott & Savoline',0
+'1469968',709,110700,0,'Dymott & Savoline',0
+'1469969',709,120700,0,'Dymott & Savoline',0
+'1469970',709,132200,0,'Dymott & Savoline',0
+'1469971',709,142200,0,'Dymott & Savoline',0
+'1469972',709,152200,0,'Dymott & Savoline',0
+'1469973',709,163700,0,'Dymott & Savoline',0
+'1469974',709,173700,0,'Dymott & Savoline',0
+'1469975',709,183700,0,'Dymott & Savoline',0
+'1470091',709,103900,0,'Dymott & Savoline',0
+'1470092',709,113900,0,'Dymott & Savoline',0
+'1470093',709,124900,0,'Dymott & Savoline',0
+'1469746',909,55900,0,'Regional Rd 25 & Britannia',0
+'1469747',909,65900,0,'Regional Rd 25 & Britannia',0
+'1469748',909,52900,0,'Regional Rd 25 & Britannia',0
+'1469749',909,62900,0,'Regional Rd 25 & Britannia',0
+'1469750',909,83900,0,'Regional Rd 25 & Britannia',0
+'1469751',909,93900,0,'Regional Rd 25 & Britannia',0
+'1469752',909,103900,0,'Regional Rd 25 & Britannia',0
+'1469753',909,113900,0,'Regional Rd 25 & Britannia',0
+'1469754',909,124900,0,'Regional Rd 25 & Britannia',0
+'1469755',909,134900,0,'Regional Rd 25 & Britannia',0
+'1469756',909,131900,0,'Regional Rd 25 & Britannia',0
+'1469757',909,141900,0,'Regional Rd 25 & Britannia',0
+'1469758',909,144900,0,'Regional Rd 25 & Britannia',0
+'1469759',909,155700,0,'Regional Rd 25 & Britannia',0
+'1469760',909,165700,0,'Regional Rd 25 & Britannia',0
+'1469761',909,181200,0,'Regional Rd 25 & Britannia',0
+'1469762',909,191200,0,'Regional Rd 25 & Britannia',0
+'1469763',909,202700,0,'Regional Rd 25 & Britannia',0
+'1469764',909,212700,0,'Regional Rd 25 & Britannia',0
+'1469765',909,162700,0,'Regional Rd 25 & Britannia',0
+'1469766',909,174200,0,'Regional Rd 25 & Britannia',0
+'1469767',909,184200,0,'Regional Rd 25 & Britannia',0
+'1469768',909,194200,0,'Regional Rd 25 & Britannia',0
+'1469769',909,205700,0,'Regional Rd 25 & Britannia',0
+'1469770',909,215700,0,'Regional Rd 25 & Britannia',0
+'1469941',909,73700,0,'Regional Rd 25 & Britannia',0
+'1469942',909,83700,0,'Regional Rd 25 & Britannia',0
+'1469943',909,93700,0,'Regional Rd 25 & Britannia',0
+'1469944',909,103700,0,'Regional Rd 25 & Britannia',0
+'1469945',909,113700,0,'Regional Rd 25 & Britannia',0
+'1469946',909,125200,0,'Regional Rd 25 & Britannia',0
+'1469947',909,135200,0,'Regional Rd 25 & Britannia',0
+'1469948',909,145200,0,'Regional Rd 25 & Britannia',0
+'1469949',909,155200,0,'Regional Rd 25 & Britannia',0
+'1469950',909,170700,0,'Regional Rd 25 & Britannia',0
+'1469951',909,180700,0,'Regional Rd 25 & Britannia',0
+'1469952',909,190700,0,'Regional Rd 25 & Britannia',0
+'1470098',909,72900,0,'Regional Rd 25 & Britannia',0
+'1470099',909,121900,0,'Regional Rd 25 & Britannia',0
+'1470100',909,151900,0,'Regional Rd 25 & Britannia',0
+'1470101',909,75900,0,'Regional Rd 25 & Britannia',0
+'1470102',909,100900,0,'Regional Rd 25 & Britannia',0
+'1470103',909,90900,0,'Regional Rd 25 & Britannia',0
+'1470104',909,110900,0,'Regional Rd 25 & Britannia',0
+'1469771',1000909,81400,,'',0
