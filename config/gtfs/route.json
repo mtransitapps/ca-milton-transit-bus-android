@@ -1,0 +1,33 @@
+{
+    "default_route_id_enabled": true,
+    "use_route_short_name_for_route_id": true,
+    "default_route_long_name_enabled": true,
+    "route_long_name_cleaners": [
+        {
+            "regex": "(^\\d+[a-z]? (- )?)",
+            "ignore_case": true
+        }
+    ],
+    "route_colors_ignored": [
+        "000000"
+    ],
+    "route_colors": [
+        {
+            "route_short_name": "_MANY ROUTES_",
+            "route_long_name": "SCHOOL EXTRA",
+            "color": "FFD800",
+            "color_comment": "School bus yellow"
+        }
+    ],
+    "direction_finder_enabled": true,
+    "trip_excludes": [
+        {
+            "trip_headsign_regex": "not in service",
+            "ignore_case": true
+        }
+    ],
+    "stop_headsign_remove_route_long_name_cleaner": {
+        "regex": "( %s$)"
+    },
+    "stop_id_cleanup_regex": "(^MI|T$)"
+}
