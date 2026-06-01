@@ -1,0 +1,17 @@
+{
+    "target_route_type_id": 3,
+    "default_color": "00615C",
+    "default_color_comment": "GREEN (like color on buses)",
+    "default_strings_cleaner_enabled": true,
+    "to_lower_upper_case_words": true,
+    "ignore_upper_case_words": [
+        "AM",
+        "PM",
+        "HS",
+        "NE",
+        "SE",
+        "NW",
+        "SW",
+        "GO"
+    ]
+}

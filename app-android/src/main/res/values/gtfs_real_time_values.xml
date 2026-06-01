@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,UnusedResources">
+    <string name="gtfs_real_time_agency_service_alerts_url">https://metrolinx.tmix.se/gtfs-realtime-milton/alerts.pb</string>
+    <!-- <string name="gtfs_real_time_agency_disabled_because_very_far_location_vehicle_positions_url">https://metrolinx.tmix.se/gtfs-realtime-milton/vehiclepositions.pb</string> -->
+    <string name="gtfs_real_time_agency_trip_updates_url">https://metrolinx.tmix.se/gtfs-realtime-milton/tripupdates.pb</string>
+</resources>
